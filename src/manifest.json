@@ -1,0 +1,11 @@
+{
+    "name": "Website Blocker",
+    "description": "About Chrome Website Blocker Extension without privacy worries",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["storage", "tabs"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    }
+  }
